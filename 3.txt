@@ -1,1 +1,3 @@
-git nie jest trudny elo
+git nie jest trudny 
+
+bla bla
